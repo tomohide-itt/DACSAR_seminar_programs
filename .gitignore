@@ -1,0 +1,6 @@
+build*/
+old_*/
+dev_*/
+*_old/
+old_*
+Notion/
